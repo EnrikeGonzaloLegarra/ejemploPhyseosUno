@@ -917,7 +917,6 @@ section {
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
-  border: 1px solid #d5e1ed;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
 }
@@ -971,16 +970,16 @@ section {
 }
 
 .services .icon-box:hover {
-  background: #c3d738;
-  border-color: #c3d738;
+  background: #fff;
+  border-color: #fff;
 }
 
 .services .icon-box:hover .icon {
-  background: #fff;
+  background: #c3d738;
 }
 
 .services .icon-box:hover .icon i {
-  color: #c3d738;
+  color: #fff;
 }
 
 .services .icon-box:hover .icon::before {
