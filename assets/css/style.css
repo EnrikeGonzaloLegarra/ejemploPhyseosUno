@@ -672,7 +672,7 @@ section {
 
 .why-us .content .more-btn:hover {
   color: #c3d738;
-  background: #fff;
+  background: rgb(10, 0, 0);
 }
 
 .why-us .icon-boxes .icon-box {
@@ -919,6 +919,7 @@ section {
   text-align: center;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
+  margin-left:33%;
 }
 
 .services .icon-box .icon {
@@ -987,7 +988,7 @@ section {
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
-  color: #fff;
+  color: rgb(15, 1, 1);
 }
 
 /*--------------------------------------------------------------
